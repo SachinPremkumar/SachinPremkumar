@@ -1,9 +1,4 @@
-### Hi there, I am Sachin S p👋
-
-<!--
-**SachinPremkumar/SachinPremkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I am Sachin S P 👋
 
 - 🔭 I’m currently working on Youth Empowerment Foundation
 - 🌱 I’m currently learning Fluter and Firebase
