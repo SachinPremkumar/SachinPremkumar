@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [Twitter-@Sachinsoraturar](https://twitter.com/Sachinsoraturar)[LinkedIn-@Sachin S P](https://www.linkedin.com/in/sachin-s-p-b67001153/)
+- 📫 How to reach me: [Twitter-@Sachinsoraturar](https://twitter.com/Sachinsoraturar) [LinkedIn-@Sachin S P](https://www.linkedin.com/in/sachin-s-p-b67001153/)
 - 😄 Pronouns: He/Him
 
