@@ -17,8 +17,8 @@
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
-![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
 
+![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
 
 - 🔭 I’m currently working on AppInsight Technologies
 - 🌱 I’m currently learning Flutter, Dart and Firebase
