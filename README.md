@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=SachinPremkumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![enter image description here](https://github-readme-stats.vercel.app/api?username=SachinPremkumar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
