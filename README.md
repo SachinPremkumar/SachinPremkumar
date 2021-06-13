@@ -1,5 +1,6 @@
 ### Hi there, I am Sachin S P 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 - 🔭 I’m currently working on AppInsight Technologies
 - 🌱 I’m currently learning Flutter, Dart and Firebase
@@ -9,13 +10,5 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/Sachinsoraturar) and [LinkedIn](https://www.linkedin.com/in/sachin-s-p-b67001153/)
 - 😄 Pronouns: He/Him
  
- ---
-
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinPremkumar)](https://github.com/anuraghazra/github-readme-stats)
 [![enter image description here](https://github-readme-stats.vercel.app/api?username=SachinPremkumar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
