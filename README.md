@@ -18,14 +18,13 @@
   />
 </a>
 
-![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
-
 - 🔭 I’m currently working on AppInsight Technologies
 - 🌱 I’m currently learning Flutter, Dart and Firebase
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
+![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
  ------------------
  Technologies
  
