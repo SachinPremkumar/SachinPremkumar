@@ -1,5 +1,5 @@
 ### Hi there, I am Sachin S P 👋
-![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
 
 
 - 🔭 I’m currently working on AppInsight Technologies
