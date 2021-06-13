@@ -8,5 +8,5 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/Sachinsoraturar) and [LinkedIn](https://www.linkedin.com/in/sachin-s-p-b67001153/)
 - 😄 Pronouns: He/Him
 
-[![enter image description here](https://github-readme-stats.vercel.app/api?username=SachinPremkumar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinPremkumar)](https://github.com/anuraghazra/github-readme-stats)
+[![enter image description here](https://github-readme-stats.vercel.app/api?username=SachinPremkumar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
