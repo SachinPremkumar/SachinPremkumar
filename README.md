@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on AppInsight Technologies
 - 🌱 I’m currently learning Flutter, Dart and Firebase
-- 👯 I’m looking to collaborate on Flutter
+- 👯 I’m looking to collaborate on Flutter and Dart
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
