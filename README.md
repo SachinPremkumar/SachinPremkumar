@@ -1,5 +1,5 @@
 ### Hi there, I am Sachin S P 👋
-<a href="[https://www.linkedin.com/in/sachin-s-p-b67001153/](https://www.linkedin.com/in/sachin-sps/)">
+<a href="https://www.linkedin.com/in/sachin-sps/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
